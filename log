@@ -1,0 +1,3 @@
+ Running with           16  processors
+ AQ time using MatMatMul  1.033806800842285E-002
+ AQ time using 6 MatMul  9.238719940185547E-004
